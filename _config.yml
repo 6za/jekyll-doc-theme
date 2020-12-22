@@ -44,7 +44,7 @@ defaults:
     path: _docs
     type: docs
   values:
-    layout: docs
+    layout: post
     sectionid: docs
     seo:
       type: "WebPage"
